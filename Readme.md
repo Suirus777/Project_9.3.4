@@ -9,7 +9,7 @@
 <b>
 root@npm:/home/odmin/project9.3.4# composer --version<br>
 Composer version 2.5.1 2022-12-22 15:33:54<br>
-</br><br><br>
+</b><br><br>
 2. Установите библиотеку swiftmailer.<br>
 <b>
 root@npm:/home/odmin/project9.3.4# composer show<br>
